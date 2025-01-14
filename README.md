@@ -8,3 +8,5 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 First page of this Dashboard
 ![image](https://github.com/user-attachments/assets/661e55b9-bbc3-4b0e-b291-dcd85a5a59d7)
 
+Index page
+![image](https://github.com/user-attachments/assets/6fcc31d9-fefe-4644-8ec6-45a470ab34d4)
