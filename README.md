@@ -5,7 +5,7 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 As part of this analysis, I’ll be using Power BI to generate key insights on the performance of AtliQ Mart’s festive promotions, helping the company make data-driven decisions for future campaigns.
 
-<span style="font-size: 50px;">First page of this Dashboard</span>
+<h1>First page of this Dashboard</h1>
 ![image](https://github.com/user-attachments/assets/661e55b9-bbc3-4b0e-b291-dcd85a5a59d7)
 
 #Index page
