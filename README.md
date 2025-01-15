@@ -8,11 +8,11 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 <span style="font-size: 50px;">First page of this Dashboard</span>
 ![image](https://github.com/user-attachments/assets/661e55b9-bbc3-4b0e-b291-dcd85a5a59d7)
 
-##Index page
+#Index page
 ![image](https://github.com/user-attachments/assets/6fcc31d9-fefe-4644-8ec6-45a470ab34d4)
 
-##City wise Analysis Page
+#City wise Analysis Page
 ![image](https://github.com/user-attachments/assets/6c7e0d60-3918-4572-a39c-1e3ba98a2675)
 
-##Promo wise Analysis Page
+#Promo wise Analysis Page
 ![image](https://github.com/user-attachments/assets/a192cd13-9b97-43b4-87a5-8fe6d79de863)
