@@ -27,3 +27,17 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 <h3>Festival wise Analysis Page</h3>
 
 ![image](https://github.com/user-attachments/assets/e555d566-76d5-4e53-8cae-8913d7643a0c)
+
+<h3>AD-HOC Request Page 1 </h3>
+
+![image](https://github.com/user-attachments/assets/78309f14-8835-4ef2-a4f3-d8c4f499143b)
+
+
+
+
+
+
+
+
+
+
