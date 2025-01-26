@@ -36,8 +36,9 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 
 ![image](https://github.com/user-attachments/assets/aa4a01b9-af3b-4d3b-b54e-860910689847)
 
+<h3>AD-HOC Request Page 3 </h3>
 
-
+![image](https://github.com/user-attachments/assets/2102ee23-b0ad-4732-ab0e-7cc04516621f)
 
 
 
