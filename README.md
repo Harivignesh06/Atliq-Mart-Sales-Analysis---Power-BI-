@@ -46,3 +46,4 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 
 
 
+![image](https://github.com/user-attachments/assets/b04510c7-49c3-47e7-a0ac-c939d872f8bc)
