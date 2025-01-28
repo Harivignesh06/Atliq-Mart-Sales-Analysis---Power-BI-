@@ -47,3 +47,7 @@ As part of this analysis, I’ll be using Power BI to generate key insights on t
 <h3> Matrix  Page 2 </h3>
 
 ![image](https://github.com/user-attachments/assets/b04510c7-49c3-47e7-a0ac-c939d872f8bc)
+
+
+
+![image](https://github.com/user-attachments/assets/898fb43e-1406-43e1-b391-7921602a662e)
